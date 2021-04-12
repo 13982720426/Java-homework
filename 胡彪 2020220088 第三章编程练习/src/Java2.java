@@ -1,4 +1,4 @@
-public class Java3 {
+public class Java2 {
     public static void main(String[] args) {
         int i, j;
         int sum = 0;        //记录因子之和
