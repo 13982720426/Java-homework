@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Java4 {
+public class Java3 {
     public static void main(String[] args)
     {
         Scanner cin= new Scanner(System.in);
