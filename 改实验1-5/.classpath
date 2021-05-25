@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="实验二/Ex1 托运行李"/>
+	<classpathentry kind="src" path="实验二/Ex2 自动售货机"/>
+	<classpathentry kind="src" path="实验二/Ex3 猜数字游戏"/>
+	<classpathentry kind="src" path="实验二/Ex4 回文数"/>
+	<classpathentry kind="src" path="实验三/Ex1 Tank 类"/>
+	<classpathentry kind="src" path="实验三/Ex2 计算机与光盘"/>
+	<classpathentry kind="src" path="实验三/Ex3 家族的姓氏"/>
+	<classpathentry kind="src" path="实验三/Ex4 复数的类封装"/>
+	<classpathentry kind="src" path="实验四五/Ex1 中国人与美国人"/>
+	<classpathentry kind="src" path="实验四五/Ex2 银行与利息"/>
+	<classpathentry kind="src" path="实验四五/Ex3 面积之和"/>
+	<classpathentry kind="src" path="实验四五/Ex4 歌手大赛"/>
+	<classpathentry kind="src" path="实验四五/Ex5 天气预报"/>
+	<classpathentry kind="src" path="实验四五/Ex6 接口计算加减乘除"/>
+	<classpathentry kind="src" path="实验一/Ex1 一个简单的应用程序"/>
+	<classpathentry kind="src" path="实验一/Ex2 输出特殊偏旁的汉字"/>
+	<classpathentry kind="src" path="实验一/Ex3 输入输出学生的基本信息"/>
+	<classpathentry kind="src" path="实验一/Ex4 超大整数的加减法"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
