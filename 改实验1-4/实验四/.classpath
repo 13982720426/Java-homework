@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ex1 中国人与美国人"/>
+	<classpathentry kind="src" path="Ex2 银行与利息"/>
+	<classpathentry kind="src" path="Ex3 面积之和"/>
+	<classpathentry kind="src" path="Ex4 歌手大赛"/>
+	<classpathentry kind="src" path="Ex5 天气预报"/>
+	<classpathentry kind="src" path="Ex6 接口计算加减乘除"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
