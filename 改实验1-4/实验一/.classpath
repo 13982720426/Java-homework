@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ex1 一个简单的应用程序"/>
+	<classpathentry kind="src" path="Ex2 输出特殊偏旁的汉字"/>
+	<classpathentry kind="src" path="Ex3 输入输出学生的基本信息"/>
+	<classpathentry kind="src" path="Ex4 超大整数的加减法"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

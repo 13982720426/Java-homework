@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ex1 托运行李"/>
+	<classpathentry kind="src" path="Ex2 自动售货机"/>
+	<classpathentry kind="src" path="Ex3 猜数字游戏"/>
+	<classpathentry kind="src" path="Ex4 回文数"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ex1 Tank 类"/>
+	<classpathentry kind="src" path="Ex2 计算机与光盘"/>
+	<classpathentry kind="src" path="Ex3 家族的姓氏"/>
+	<classpathentry kind="src" path="Ex4 复数的类封装"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
